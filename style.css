@@ -1,0 +1,12 @@
+*{box sizing: border
+  padding:0
+  Margin:0
+}
+body{
+  background-color: aliceblue;
+}
+
+.container{ 
+
+  display: flex;
+}
